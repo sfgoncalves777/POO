@@ -18,7 +18,7 @@ Código onde pratiquei o relacionamento de agregação.
 Código onde pratiquei os conhecimentos que tinha adquirido até então (constructor, níveis de visibilidade, geters, seters).
 
 ### control
-Código onde pratiquei os conhecimentos de encapsulamento (interface, geters e seters).
+Código onde pratiquei os conhecimentos de encapsulamento (interface, getters e setters).
 
 ### animals
 Código onde pratiquei conhecimentos de herança.
